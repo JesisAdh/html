@@ -1,0 +1,77 @@
+heading = line height = 1.3*x
+praraph = 1.5
+nothing more than 3-4 lines
+
+hyper => page ko relationship (link)
+text => object
+markup => description of presentation
+
+use three headings compulsarily for SEO 
+
+heading makes website SEO friendly
+fr SEO, use <strong> instead of <b>
+use <em> instead of <i>
+
+
+Lists of html
+Ordered list 
+    types: A,1,I
+    start only supports number value
+Unordered list
+    types: Square, disc, circle
+
+description list (title, defined)
+
+
+html class2====>
+anchor tag
+target == _blank: new tab
+          _self: same tab 
+
+image tag
+attributes=>
+    title
+    alt ==>  very important for SEO
+ 
+table tag
+th==> bold and centered
+    caption is also used in the table to keep a text in the top and the centre of the table
+USING OF TABLE IS GOOD FOR SEO 
+
+details tag==> ko title dina ==> summary tag
+
+FORM tag
+
+    method = get (shows the data in url), post(hides data in url)
+    action = after submit where to go  
+
+
+**we can use data list if we want to show suggestion for something
+
+******FOR SEO
+    Wisely ue the alt in all images to make it easy for the seach engine
+
+    a tag ma rel="" here, follow lets the search engine to browse your site and if there is no follow then it is not searched by the engine
+
+    1.Meta (Keyword, name, author)
+    2. h1-h6
+    3. img alt
+    4. achor tag
+    5.structured data (semantic)
+    non semantic
+
+    semantic tag:
+        header
+        nav
+        main
+        aside
+        article
+        figure
+        figcaption
+        section
+        footer
+
+about not semantic html::: class6
+if one then use id (gives unique intro)
+but use class if many
+for SEO use semantic concept
